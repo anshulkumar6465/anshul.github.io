@@ -1,0 +1,69 @@
+body{
+
+text-align: center;
+font-family: "Comic Sans MS", cursive, sans-serif; 
+
+
+}
+
+
+div{
+
+
+	
+
+}
+
+
+.top{
+
+position: relative;
+padding-top: 100px;
+background-color: #e4f9f5;
+
+
+}
+.middle{
+
+
+
+}
+.bottom{
+
+	
+}
+
+.topcloud{
+     
+position: absolute;
+
+right: 300px;
+top: 50px;
+
+
+
+}
+
+.bottomcloud{
+
+position: absolute;
+left: 300px;
+bottom: 300px;
+
+}
+h1{
+
+	font-family: 'Sacramento', cursive; 
+	font-size: 50px;
+}
+
+p{
+    
+	font-size: 27px;
+}
+
+.ab{
+
+border-radius: 25%;
+
+}
